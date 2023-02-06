@@ -1,4 +1,4 @@
-# HTTP Spammer Over Tor
+# HTTP form Spammer Over Tor
 
 It's just a little python script that spams an HTTP page in a loop.\
 Requests go through Tor network for more anonymity.
@@ -13,7 +13,7 @@ Requests go through Tor network for more anonymity.
 
 or 
 
-> ./script.py & ./script.py & ./script.py & [...] ./script.py   #(For a faster spam)
+> ./script.py & ./script.py & ./script.py & [...] ./script.py   #(For a multithread spam)
 
 
 Please don't use it to do illegal things!
